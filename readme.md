@@ -1,3 +1,8 @@
 # Programming principles
 
-Applying programming principles to the project design-agency
+Applying programming principles:
+- DRY
+- KISS
+- YAGNI
+- SOLID
+
