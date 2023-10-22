@@ -10,3 +10,7 @@ Changes of the project [design agency](https://github.com/slowsleep/design-agenc
 3. Fixed layout validity and checked semantics by w3c
     - [go to view](https://github.com/slowsleep/design-agency/commit/9cbea3005a47c4fb30bce5f026d8f4be116c3922)
 
+4. Changed names classes by "БЭМ"
+    - [go to view](https://github.com/slowsleep/design-agency/commit/f05ecea68c7104f0b97926fb2d9793b843d13dbb)
+
+
