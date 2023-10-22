@@ -14,3 +14,8 @@ Changes of the project [design agency](https://github.com/slowsleep/design-agenc
     - [go to view](https://github.com/slowsleep/design-agency/commit/f05ecea68c7104f0b97926fb2d9793b843d13dbb)
 
 
+Changes of the project [spa-salon](https://github.com/slowsleep/spa-salon/tree/corrected):
+1. YAGNI
+    - deleted a profile page that was not described in the task
+    - [go to view](https://github.com/slowsleep/spa-salon/commit/ccfbed19e339be2d3a4d450b4c766bde2a400721)
+
