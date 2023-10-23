@@ -19,3 +19,9 @@ Changes of the project [spa-salon](https://github.com/slowsleep/spa-salon/tree/c
     - deleted a profile page that was not described in the task
     - [go to view](https://github.com/slowsleep/spa-salon/commit/ccfbed19e339be2d3a4d450b4c766bde2a400721)
 
+
+Principle applied in the project [module19_homework](https://github.com/slowsleep/module19_homework):
+1. SOLID
+    - [task5](https://github.com/slowsleep/module19_homework/blob/main/task5.js)
+    - new classes were extended from the parent class and received its methods which if necessary can be rewritten without completely changing the method of the parent class
+
